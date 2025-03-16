@@ -48,13 +48,21 @@
 
 
 ## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omkar1705&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar1705&theme=dark&hide_border=false" />
+<div align="center">
+  <a href="https://github.com/omkar1705">
+    <img src="https://github-readme-stats.vercel.app/api?username=omkar1705&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Yash Sali's GitHub Stats" width="45%" />
+  </a>
+  <a href="https://github.com/omkar1705">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar1705&theme=dracula&hide_border=true" alt="Streak Stats" width="45%" />
+  </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar1705&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+  <a href="https://github.com/omkar1705">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar1705&layout=compact&theme=dracula&hide_border=true" alt="Most Used Languages" width="45%" />
+  </a>
+  <a href="https://github.com/omkar1705">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkar1705&theme=dracula" alt="Contribution Graph" width="75%" />
+  </a>
+  <br></div>
 
 <br />
 <br />

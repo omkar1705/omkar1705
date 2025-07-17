@@ -74,8 +74,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day">
 </p>
 
-
 [![](https://visitcount.itsvg.in/api?id=omkar1705&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkar1705&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omkar1705/omkar1705/output/github-snake-dark.svg" />

@@ -7,7 +7,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Omkar
 <br /> 
 
-
 🚀 Full Stack Developer | MERN Stack | Java DSA | Tech Enthusiast<br><br>🎓 B.E. in Computer Engineering from SIES GST<br>💻 Passionate about building scalable and efficient web applications<br>🛠️ Tech Stack: MERN (MongoDB, Express.js, React, Node.js), Java, Flutter<br>🤖 Robotics Enthusiast – Co-coordinator of my college's robotics team<br>📚 Currently improving DSA in Java & System Design<br>🏆 Always exploring new technologies & innovative solutions<br>💡 "Code, create, and innovate—one commit at a time!"
 
 ## 📫 Let's Connect:
